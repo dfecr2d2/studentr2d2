@@ -30,7 +30,7 @@
 - Voltage level: 4.5V - 5.5V
 
 ##Motor Controllers:
-###1) Pololu Simple Motor Controller
+
 **Important Links**:
 
 - Link: [Motor controller datasheet](http://support.robotis.com/en/product/auxdevice/sensor/dms_manual.htm "DMS-80 datasheet")
